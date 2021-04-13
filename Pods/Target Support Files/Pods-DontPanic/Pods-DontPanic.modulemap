@@ -1,0 +1,6 @@
+framework module Pods_DontPanic {
+  umbrella header "Pods-DontPanic-umbrella.h"
+
+  export *
+  module * { export * }
+}

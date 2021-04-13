@@ -1,0 +1,6 @@
+framework module Pods_DontPanic_DontPanicUITests {
+  umbrella header "Pods-DontPanic-DontPanicUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
